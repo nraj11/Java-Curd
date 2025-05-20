@@ -1,4 +1,4 @@
-package com.omnie.dto;
+package com.nraj.dto;
 
 public class Response {
 	private String success;

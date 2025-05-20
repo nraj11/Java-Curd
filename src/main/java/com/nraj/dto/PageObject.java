@@ -1,4 +1,4 @@
-package com.omnie.dto;
+package com.nraj.dto;
 
 import java.util.List;
 

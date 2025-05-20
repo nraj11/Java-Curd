@@ -1,4 +1,4 @@
-package com.omnie.controller;
+package com.nraj.controller;
 
 import java.util.List;
 
@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
-import com.omnie.dto.Response;
-import com.omnie.service.CrudService;
+import com.nraj.dto.Response;
+import com.nraj.service.CrudService;
 
 
 public abstract class CrudController<DT, EN, ID> {

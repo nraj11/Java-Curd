@@ -1,12 +1,12 @@
-package com.omnie.service;
+package com.nraj.service;
 
 import java.util.List;
 
 import org.springframework.data.domain.Sort;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.omnie.dto.PageObject;
-import com.omnie.mapper.GenericMapper;
+import com.nraj.dto.PageObject;
+import com.nraj.mapper.GenericMapper;
 
 public interface CrudService<DT, EN, ID> {
 	/**

@@ -1,4 +1,4 @@
-package com.omnie.service;
+package com.nraj.service;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
 
-import com.omnie.dto.PageObject;
+import com.nraj.dto.PageObject;
 
 public abstract class CrudServiceImpl<DT, EN, ID> implements CrudService<DT,EN, ID> {
 	

@@ -1,4 +1,4 @@
-package com.omnie.mapper;
+package com.nraj.mapper;
 
 import java.util.List;
 

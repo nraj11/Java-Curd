@@ -1,4 +1,4 @@
-package com.nraj.mapper;
+package com.nraj11.mapper;
 
 import java.util.List;
 

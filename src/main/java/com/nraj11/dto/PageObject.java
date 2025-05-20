@@ -1,4 +1,4 @@
-package com.nraj.dto;
+package com.nraj11.dto;
 
 import java.util.List;
 

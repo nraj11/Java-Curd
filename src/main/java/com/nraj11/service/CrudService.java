@@ -1,12 +1,12 @@
-package com.nraj.service;
+package com.nraj11.service;
 
 import java.util.List;
 
 import org.springframework.data.domain.Sort;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.nraj.dto.PageObject;
-import com.nraj.mapper.GenericMapper;
+import com.nraj11.dto.PageObject;
+import com.nraj11.mapper.GenericMapper;
 
 public interface CrudService<DT, EN, ID> {
 	/**
